@@ -11,6 +11,7 @@ public class AlstormAppApplication {
 		System.out.println("Alstorm app started");
 		System.out.println("The author is Anant Raj");
 		System.out.println("The Legendary shade");
+		System.out.println("The winds are the flames of death");
 	}
 
 }
