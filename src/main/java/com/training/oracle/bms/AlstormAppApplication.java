@@ -10,6 +10,7 @@ public class AlstormAppApplication {
 		SpringApplication.run(AlstormAppApplication.class, args);
 		System.out.println("Alstorm app started");
 		System.out.println("The author is Anant Raj");
+		System.out.println("The Legendary shade");
 	}
 
 }
